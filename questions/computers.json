@@ -1,18 +1,28 @@
 [
-    {
-        "id": 1,
-        "subject": "computer",
-        "question": "2+2",
-        "ans": ["4", "0", "6", "-1"],
-        "correctAns": "4",
-        "enable": true
-    },
-    {
-        "id": 2,
-        "subject": "computer",
-        "question": "RAM",
-        "ans": ["R", "A", "M", "Y"],
-        "correctAns": "6",
-        "enable": false
-    }
+  {
+    "id": 1,
+    "subject": "computers",
+    "question": "2+2",
+    "ans": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "correctAns": "4",
+    "enable": false
+  },
+  {
+    "id": 2,
+    "subject": "computers",
+    "question": "RAM",
+    "ans": [
+      "R",
+      "A",
+      "M",
+      "Y"
+    ],
+    "correctAns": "6",
+    "enable": false
+  }
 ]

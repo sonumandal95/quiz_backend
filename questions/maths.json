@@ -10,7 +10,7 @@
       "-1"
     ],
     "correctAns": "4",
-    "enable": false
+    "enable": true
   },
   {
     "id": 2,
@@ -24,5 +24,135 @@
     ],
     "correctAns": "6",
     "enable": false
+  },
+  {
+    "id": 3,
+    "subject": "maths",
+    "question": "4+2",
+    "ans": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "correctAns": "6",
+    "enable": true
+  },
+  {
+    "id": 4,
+    "subject": "maths",
+    "question": "4+2",
+    "ans": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "correctAns": "6",
+    "enable": true
+  },
+  {
+    "id": 5,
+    "subject": "maths",
+    "question": "4+2",
+    "ans": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "correctAns": "6",
+    "enable": true
+  },
+  {
+    "id": 6,
+    "subject": "maths",
+    "question": "4+2",
+    "ans": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "correctAns": "6",
+    "enable": true
+  },
+  {
+    "id": 7,
+    "subject": "maths",
+    "question": "4+2",
+    "ans": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "correctAns": "6",
+    "enable": false
+  },
+  {
+    "id": 8,
+    "subject": "maths",
+    "question": "4+2",
+    "ans": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "correctAns": "6",
+    "enable": true
+  },
+  {
+    "id": 9,
+    "subject": "maths",
+    "question": "4+2",
+    "ans": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "correctAns": "6",
+    "enable": true
+  },
+  {
+    "id": 10,
+    "subject": "maths",
+    "question": "4+2",
+    "ans": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "correctAns": "6",
+    "enable": true
+  },
+  {
+    "id": 11,
+    "subject": "maths",
+    "question": "4+2",
+    "ans": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "correctAns": "6",
+    "enable": false
+  },
+  {
+    "id": 12,
+    "subject": "maths",
+    "question": "4+2",
+    "ans": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "correctAns": "6",
+    "enable": true
   }
 ]
