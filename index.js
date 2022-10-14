@@ -4,6 +4,12 @@ const fs = require('fs')
 const app = express()
 const port = 5000
 
+const round1 = 'round1'
+const round2 = 'round2'
+const round3 = 'round3'
+const round4 = 'round4'
+
+
 const updateFile = async (filename, id) => {
     try {
         const data = fs.readFileSync(`./questions/${filename}.json`, "utf8")
@@ -23,23 +29,43 @@ const getFileData = async (filename) => {
 }
 
 app.use(cors())
-app.get('/maths', async (req, res) => {
-    const data = await getFileData('maths')
+app.get(`/${round1}`, async (req, res) => {
+    const data = await getFileData(round1)
     res.send(data)
 })
 
-app.put('/maths/:id', async (req, res) => {
-    const result = await updateFile('maths', req.params.id)
+app.get(`/${round2}`, async (req, res) => {
+    const data = await getFileData(round2)
+    res.send(data)
+})
+
+app.get(`/${round3}`, async (req, res) => {
+    const data = await getFileData(round3)
+    res.send(data)
+})
+
+app.get(`/${round4}`, async (req, res) => {
+    const data = await getFileData(round4)
+    res.send(data)
+})
+
+app.put(`/${round1}/:id`, async (req, res) => {
+    const result = await updateFile(round1, req.params.id)
     res.send(result)
 })
 
-app.get('/computers', async (req, res) => {
-    const data = await getFileData('computers')
-    res.send(data)
+app.put(`/${round2}/:id`, async (req, res) => {
+    const result = await updateFile(round1, req.params.id)
+    res.send(result)
 })
 
-app.put('/computers/:id', async (req, res) => {
-    const result = await updateFile('computers', req.params.id)
+app.put(`/${round3}/:id`, async (req, res) => {
+    const result = await updateFile(round3, req.params.id)
+    res.send(result)
+})
+
+app.put(`/${round4}/:id`, async (req, res) => {
+    const result = await updateFile(round4, req.params.id)
     res.send(result)
 })
 

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "subject": "maths",
+    "round": "round2",
+    "question": "demo",
+    "ans": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "questionHindi": "2+2",
+    "ansHindi": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "correctAns": "4",
+    "enable": false
+  }
+]

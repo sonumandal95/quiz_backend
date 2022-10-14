@@ -1,0 +1,128 @@
+[
+  {
+    "id": 1,
+    "subject": "computer",
+    "round": "round1",
+    "question": "demo",
+    "ans": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "questionHindi": "2+2",
+    "ansHindi": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "correctAns": "4",
+    "enable": true
+  },
+  {
+    "id": 2,
+    "subject": "computer",
+    "round": "round1",
+    "question": "demo",
+    "ans": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "questionHindi": "2+2",
+    "ansHindi": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "correctAns": "4",
+    "enable": true
+  },
+  {
+    "id": 3,
+    "subject": "computer",
+    "round": "round1",
+    "question": "demo",
+    "ans": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "questionHindi": "2+2",
+    "ansHindi": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "correctAns": "4",
+    "enable": false
+  },
+  {
+    "id": 4,
+    "subject": "computer",
+    "round": "round1",
+    "question": "demo",
+    "ans": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "questionHindi": "2+2",
+    "ansHindi": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "correctAns": "4",
+    "enable": true
+  },
+  {
+    "id": 5,
+    "subject": "computer",
+    "round": "round1",
+    "question": "demo",
+    "ans": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "questionHindi": "2+2",
+    "ansHindi": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "correctAns": "4",
+    "enable": true
+  },
+  {
+    "id": 6,
+    "subject": "computer",
+    "round": "round1",
+    "question": "demo",
+    "ans": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "questionHindi": "2+2",
+    "ansHindi": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "correctAns": "4",
+    "enable": false
+  }
+]
