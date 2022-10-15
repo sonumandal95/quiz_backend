@@ -8,6 +8,7 @@ const round1 = 'round1'
 const round2 = 'round2'
 const round3 = 'round3'
 const round4 = 'round4'
+const round5 = 'round5'
 
 
 const updateFile = async (filename, id) => {
@@ -49,6 +50,11 @@ app.get(`/${round4}`, async (req, res) => {
     res.send(data)
 })
 
+app.get(`/${round5}`, async (req, res) => {
+    const data = await getFileData(round5)
+    res.send(data)
+})
+
 app.put(`/${round1}/:id`, async (req, res) => {
     const result = await updateFile(round1, req.params.id)
     res.send(result)
@@ -66,6 +72,11 @@ app.put(`/${round3}/:id`, async (req, res) => {
 
 app.put(`/${round4}/:id`, async (req, res) => {
     const result = await updateFile(round4, req.params.id)
+    res.send(result)
+})
+
+app.put(`/${round5}/:id`, async (req, res) => {
+    const result = await updateFile(round5, req.params.id)
     res.send(result)
 })
 
