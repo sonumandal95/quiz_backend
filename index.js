@@ -61,7 +61,7 @@ app.put(`/${round1}/:id`, async (req, res) => {
 })
 
 app.put(`/${round2}/:id`, async (req, res) => {
-    const result = await updateFile(round1, req.params.id)
+    const result = await updateFile(round2, req.params.id)
     res.send(result)
 })
 

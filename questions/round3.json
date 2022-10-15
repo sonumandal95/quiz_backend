@@ -1,7 +1,28 @@
 [
   {
     "id": 1,
+    "round": "round3",
     "subject": "Science",
+    "question": "Perimeter of Square",
+    "ans": [
+      "3xa",
+      "4xa",
+      "4a²",
+      "2a"
+    ],
+    "questionHindi": "वर्ग का परिमाप",
+    "ansHindi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAns": "4xa",
+    "enable": false
+  },
+  {
+    "id": 2,
+    "subject": "computer",
     "round": "round3",
     "question": "demo",
     "ans": [
@@ -19,5 +40,194 @@
     ],
     "correctAns": "4",
     "enable": false
+  },
+  {
+    "id": 3,
+    "subject": "computer",
+    "round": "round3",
+    "question": "demo",
+    "ans": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "questionHindi": "2+2",
+    "ansHindi": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "correctAns": "4",
+    "enable": false
+  },
+  {
+    "id": 4,
+    "subject": "computer",
+    "round": "round3",
+    "question": "demo",
+    "ans": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "questionHindi": "2+2",
+    "ansHindi": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "correctAns": "4",
+    "enable": true
+  },
+  {
+    "id": 5,
+    "subject": "computer",
+    "round": "round3",
+    "question": "demo",
+    "ans": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "questionHindi": "2+2",
+    "ansHindi": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "correctAns": "4",
+    "enable": true
+  },
+  {
+    "id": 6,
+    "subject": "computer",
+    "round": "round3",
+    "question": "demo",
+    "ans": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "questionHindi": "2+2",
+    "ansHindi": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "correctAns": "4",
+    "enable": true
+  },
+  {
+    "id": 7,
+    "subject": "computer",
+    "round": "round3",
+    "question": "demo",
+    "ans": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "questionHindi": "2+2",
+    "ansHindi": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "correctAns": "4",
+    "enable": true
+  },
+  {
+    "id": 8,
+    "subject": "computer",
+    "round": "round3",
+    "question": "demo",
+    "ans": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "questionHindi": "2+2",
+    "ansHindi": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "correctAns": "4",
+    "enable": true
+  },
+  {
+    "id": 9,
+    "subject": "computer",
+    "round": "round3",
+    "question": "demo",
+    "ans": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "questionHindi": "2+2",
+    "ansHindi": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "correctAns": "4",
+    "enable": true
+  },
+  {
+    "id": 10,
+    "subject": "computer",
+    "round": "round3",
+    "question": "demo",
+    "ans": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "questionHindi": "2+2",
+    "ansHindi": [
+      "4",
+      "0",
+      "6",
+      "-1"
+    ],
+    "correctAns": "4",
+    "enable": true
+  },
+  {
+    "id": 11,
+    "round": "round3",
+    "subject": "Maths",
+    "question": "Perimeter of Square?",
+    "ans": [
+      "3xa",
+      "4xa",
+      "4a²",
+      "2a²"
+    ],
+    "questionHindi": "वर्ग का परिमाप",
+    "ansHindi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAns": "4xa",
+    "enable": true
   }
 ]
