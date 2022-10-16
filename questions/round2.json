@@ -18,7 +18,7 @@
       "Volume of Sphere"
     ],
     "correctAns": "4xa",
-    "enable": false
+    "enable": true
   },
   {
     "id": 2,
@@ -39,7 +39,7 @@
       ""
     ],
     "correctAns": "πr²h",
-    "enable": false
+    "enable": true
   },
   {
     "id": 3,
@@ -60,7 +60,7 @@
       ""
     ],
     "correctAns": "⅓πr²h4",
-    "enable": true
+    "enable": false
   },
   {
     "id": 4,
@@ -81,7 +81,7 @@
       ""
     ],
     "correctAns": "x²(a+b)x+ab",
-    "enable": false
+    "enable": true
   },
   {
     "id": 5,
@@ -102,7 +102,7 @@
       ""
     ],
     "correctAns": "(a+b+c)/2",
-    "enable": false
+    "enable": true
   },
   {
     "id": 6,
@@ -123,7 +123,7 @@
       ""
     ],
     "correctAns": "lxbxh",
-    "enable": false
+    "enable": true
   },
   {
     "id": 7,
@@ -144,7 +144,7 @@
       ""
     ],
     "correctAns": "x²+y²+2xy",
-    "enable": false
+    "enable": true
   },
   {
     "id": 8,
@@ -165,7 +165,7 @@
       "Volume of Sphere"
     ],
     "correctAns": "4/3 πr³",
-    "enable": false
+    "enable": true
   },
   {
     "id": 9,
@@ -207,6 +207,6 @@
       ""
     ],
     "correctAns": "(x-y)(x+y)",
-    "enable": false
+    "enable": true
   }
 ]

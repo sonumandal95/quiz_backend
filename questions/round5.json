@@ -3,21 +3,210 @@
     "id": 1,
     "subject": "Science",
     "round": "round5",
-    "question": "demo",
-    "ans": [
-      "4",
-      "0",
-      "6",
-      "-1"
-    ],
-    "questionHindi": "2+2",
+    "question": "Tomato is a Natural Source of which Acid?",
+    "questionHindi": "टमाटर किस अम्ल का प्राकृतिक स्रोत है ?",
+    "enable": false,
+    "correctAns": "",
     "ansHindi": [
-      "4",
-      "0",
-      "6",
-      "-1"
+      "",
+      "",
+      "",
+      ""
     ],
-    "correctAns": "4",
-    "enable": false
+    "ans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": 2,
+    "subject": "Science",
+    "round": "round5",
+    "question": "Name the Morror which is used for Dental Mirror?",
+    "questionHindi": "उस दर्पण का नाम बतावें जिसे डॉक्टरी दर्पण के रूप में प्रयोग किया जाता है ?",
+    "enable": false,
+    "correctAns": "",
+    "ansHindi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "ans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": 3,
+    "subject": "Science",
+    "round": "round5",
+    "question": "What is the Unit of Power of Lens?",
+    "questionHindi": "लेंस की शक्ति का मात्रक क्या है ?",
+    "enable": false,
+    "correctAns": "",
+    "ansHindi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "ans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": 4,
+    "subject": "Science",
+    "round": "round5",
+    "question": "What type of Image is produced by Concave Lens?",
+    "questionHindi": "अवतल लेंस किस प्रकार का प्रतिबिम्ब बनाता है ?",
+    "enable": false,
+    "correctAns": "",
+    "ansHindi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "ans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": 5,
+    "subject": "Science",
+    "round": "round5",
+    "question": "Which Acid our Stomach contains?",
+    "questionHindi": "हमारे पेट में कौन सा अम्ल होता है?",
+    "enable": true,
+    "correctAns": "",
+    "ansHindi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "ans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": 6,
+    "subject": "Science",
+    "round": "round5",
+    "question": "What is the Chemical formula of Lime Water?",
+    "questionHindi": "चूने के पानी का रासायनिक सूत्र क्या है?",
+    "enable": true,
+    "correctAns": "",
+    "ansHindi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "ans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": 7,
+    "subject": "Science",
+    "round": "round5",
+    "question": "Change in the Focal Length of Human Eye, is caused due to?",
+    "questionHindi": "मानव नेत्र की फोकस दूरी में परिवर्तन किसके कारण होता है?",
+    "enable": true,
+    "correctAns": "",
+    "ansHindi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "ans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": 8,
+    "subject": "Science",
+    "round": "round5",
+    "question": "Which Mirror is used as the Side View Mirror?",
+    "questionHindi": "वाहनों में साइड व्यू दर्पण के रूप में किस दर्पण का उपयोग किया जाता है?",
+    "enable": true,
+    "correctAns": "",
+    "ansHindi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "ans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": 9,
+    "subject": "Science",
+    "round": "round5",
+    "question": "Litmus Natural Dye is an Extract of which Plant?",
+    "questionHindi": "प्रकृतिक रंजक लिटमस किस पौधे से प्रप्त किया जाता है?",
+    "enable": true,
+    "correctAns": "",
+    "ansHindi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "ans": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "id": 10,
+    "subject": "Science",
+    "round": "round5",
+    "question": "What is always the Product of Neutralization Reaction?",
+    "questionHindi": "उदासीनीकरण अभिक्रिया का उत्पाद हमेशा क्या होता है?",
+    "enable": true,
+    "correctAns": "",
+    "ansHindi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "ans": [
+      "",
+      "",
+      "",
+      ""
+    ]
   }
 ]
