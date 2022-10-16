@@ -3,231 +3,210 @@
     "id": 1,
     "round": "round3",
     "subject": "Science",
-    "question": "Perimeter of Square",
+    "question": "Deficiency of Vitamin A can lead to which disease?",
     "ans": [
-      "3xa",
-      "4xa",
-      "4a²",
-      "2a"
+      "Beri Beri",
+      "Rickets",
+      "Night Blindness",
+      "Goiter disease"
     ],
-    "questionHindi": "वर्ग का परिमाप",
+    "questionHindi": "विटामिन ए की कमी से कौन सा रोग हो सकता है?",
     "ansHindi": [
-      "",
-      "",
-      "",
-      ""
+      "बेरी बेरी",
+      "सुखा रोग",
+      "रतौंधी",
+      "घेंघा"
     ],
-    "correctAns": "4xa",
+    "correctAns": "Night Blindness",
     "enable": false
   },
   {
     "id": 2,
-    "subject": "computer",
+    "subject": "Science",
     "round": "round3",
-    "question": "demo",
+    "question": "Measles is caused by which Pathogen?",
     "ans": [
-      "4",
-      "0",
-      "6",
-      "-1"
+      "Algae",
+      "Bacteria",
+      "Virus",
+      "None of these"
     ],
-    "questionHindi": "2+2",
+    "questionHindi": "खसरा किस रोगानु द्वारा होती है?",
     "ansHindi": [
-      "4",
-      "0",
-      "6",
-      "-1"
+      "शैवाल",
+      "जीवाणु",
+      "विषाणु",
+      "इनमे से कोई नहीं"
     ],
-    "correctAns": "4",
+    "correctAns": "Virus",
     "enable": false
   },
   {
     "id": 3,
-    "subject": "computer",
+    "subject": "Science",
     "round": "round3",
-    "question": "demo",
+    "question": "Which disease can be prevented by Vaccination?",
     "ans": [
-      "4",
-      "0",
-      "6",
-      "-1"
+      "Polio",
+      "Dengue",
+      "Dysentery",
+      "Typhoid"
     ],
-    "questionHindi": "2+2",
+    "questionHindi": "कौन सी बिमारी टीकाकरण द्वारा रोका जा सकता है?",
     "ansHindi": [
-      "4",
-      "0",
-      "6",
-      "-1"
+      "पोलियो",
+      "डेंगू",
+      "पेचिश",
+      "टाइफाइड"
     ],
-    "correctAns": "4",
+    "correctAns": "Polio",
     "enable": false
   },
   {
     "id": 4,
-    "subject": "computer",
+    "subject": "Science",
     "round": "round3",
-    "question": "demo",
+    "question": "What type of disease is Tuberculosis (T.B)?",
     "ans": [
-      "4",
-      "0",
-      "6",
-      "-1"
+      "Contagious",
+      "Non - Infectious",
+      "Genetic",
+      "None of these"
     ],
-    "questionHindi": "2+2",
+    "questionHindi": "तपेदिक टी बी किस प्रकार का रोग है?",
     "ansHindi": [
-      "4",
-      "0",
-      "6",
-      "-1"
+      "संक्रामक",
+      "असंक्रामक",
+      "अनुवांशिक",
+      "इनमे से कोई नहीं"
     ],
-    "correctAns": "4",
-    "enable": true
+    "correctAns": "Contagious",
+    "enable": false
   },
   {
     "id": 5,
-    "subject": "computer",
+    "subject": "Science",
     "round": "round3",
-    "question": "demo",
+    "question": "Which cell organelle is not found in plant cell?",
     "ans": [
-      "4",
-      "0",
-      "6",
-      "-1"
+      "Nucleus",
+      "Centrosome",
+      "Golgi Body",
+      "Cell Membrane"
     ],
-    "questionHindi": "2+2",
+    "questionHindi": "कौन सी कोशिकांग पादप कोशिका में नहीं पायी जाती है?",
     "ansHindi": [
-      "4",
-      "0",
-      "6",
-      "-1"
+      "केन्द्रक",
+      "सेंट्रोसोम",
+      "गॉल्जीकाय",
+      "कोशिका झिल्ली"
     ],
-    "correctAns": "4",
-    "enable": true
+    "correctAns": "Centrosome",
+    "enable": false
   },
   {
     "id": 6,
-    "subject": "computer",
+    "subject": "Science",
     "round": "round3",
-    "question": "demo",
+    "question": "Which is the Longest Cell in the Human Body?",
     "ans": [
-      "4",
-      "0",
-      "6",
-      "-1"
+      "Blood Cells",
+      "Nerve Cells",
+      "Fat Cells",
+      "Bone Cells"
     ],
-    "questionHindi": "2+2",
-    "ansHindi": [
-      "4",
-      "0",
-      "6",
-      "-1"
-    ],
-    "correctAns": "4",
-    "enable": true
-  },
-  {
-    "id": 7,
-    "subject": "computer",
-    "round": "round3",
-    "question": "demo",
-    "ans": [
-      "4",
-      "0",
-      "6",
-      "-1"
-    ],
-    "questionHindi": "2+2",
-    "ansHindi": [
-      "4",
-      "0",
-      "6",
-      "-1"
-    ],
-    "correctAns": "4",
-    "enable": true
-  },
-  {
-    "id": 8,
-    "subject": "computer",
-    "round": "round3",
-    "question": "demo",
-    "ans": [
-      "4",
-      "0",
-      "6",
-      "-1"
-    ],
-    "questionHindi": "2+2",
-    "ansHindi": [
-      "4",
-      "0",
-      "6",
-      "-1"
-    ],
-    "correctAns": "4",
-    "enable": true
-  },
-  {
-    "id": 9,
-    "subject": "computer",
-    "round": "round3",
-    "question": "demo",
-    "ans": [
-      "4",
-      "0",
-      "6",
-      "-1"
-    ],
-    "questionHindi": "2+2",
-    "ansHindi": [
-      "4",
-      "0",
-      "6",
-      "-1"
-    ],
-    "correctAns": "4",
-    "enable": true
-  },
-  {
-    "id": 10,
-    "subject": "computer",
-    "round": "round3",
-    "question": "demo",
-    "ans": [
-      "4",
-      "0",
-      "6",
-      "-1"
-    ],
-    "questionHindi": "2+2",
-    "ansHindi": [
-      "4",
-      "0",
-      "6",
-      "-1"
-    ],
-    "correctAns": "4",
-    "enable": true
-  },
-  {
-    "id": 11,
-    "round": "round3",
-    "subject": "Maths",
-    "question": "Perimeter of Square?",
-    "ans": [
-      "3xa",
-      "4xa",
-      "4a²",
-      "2a²"
-    ],
-    "questionHindi": "वर्ग का परिमाप",
+    "questionHindi": "",
     "ansHindi": [
       "",
       "",
       "",
       ""
     ],
-    "correctAns": "4xa",
+    "correctAns": "Nerve Cells",
+    "enable": false
+  },
+  {
+    "id": 7,
+    "subject": "Science",
+    "round": "round3",
+    "question": "Organism that carries Pathogens from the Patient to the new Host?",
+    "ans": [
+      "Amoeba",
+      "Bacteria",
+      "Vector",
+      "None of these"
+    ],
+    "questionHindi": "",
+    "ansHindi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAns": "Vector",
+    "enable": false
+  },
+  {
+    "id": 8,
+    "subject": "Science",
+    "round": "round3",
+    "question": "Cells that have a Membranous organized Nucleus are called?",
+    "ans": [
+      "Cell Membrane",
+      "Prokaryotic Cell",
+      "Eukaryotic Cell",
+      "None of these"
+    ],
+    "questionHindi": "",
+    "ansHindi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAns": "Eukaryotic Cell",
     "enable": true
+  },
+  {
+    "id": 9,
+    "subject": "Science",
+    "round": "round3",
+    "question": "Size of the smallest Animal Cell is?",
+    "ans": [
+      "1 – 10 meters",
+      "1 – 10 centimeters",
+      "1 -10 millimeters",
+      "0.1 – 0.5 micrometers"
+    ],
+    "questionHindi": "",
+    "ansHindi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAns": "0.1 – 0.5 micrometers",
+    "enable": false
+  },
+  {
+    "id": 10,
+    "subject": "Science",
+    "round": "round3",
+    "question": "Smoking, Chewing Tobacco and Consumption of Alcohol can generate which disease?",
+    "ans": [
+      "Common Cold",
+      "Cholera",
+      "Fatal disease",
+      "Dysentery"
+    ],
+    "questionHindi": "",
+    "ansHindi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAns": "Fatal disease",
+    "enable": false
   }
 ]
