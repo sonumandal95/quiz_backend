@@ -31,7 +31,7 @@
       "Virus",
       "None of these"
     ],
-    "questionHindi": "खसरा किस रोगानु द्वारा होती है?",
+    "questionHindi": "खसरा किस रोगाणु द्वारा होती है?",
     "ansHindi": [
       "शैवाल",
       "जीवाणु",
@@ -81,7 +81,7 @@
       "इनमे से कोई नहीं"
     ],
     "correctAns": "Contagious",
-    "enable": false
+    "enable": true
   },
   {
     "id": 5,
@@ -115,12 +115,12 @@
       "Fat Cells",
       "Bone Cells"
     ],
-    "questionHindi": "",
+    "questionHindi": "मानव शरीर में सबसे लंबी कोशिका कौन सी है?",
     "ansHindi": [
-      "",
-      "",
-      "",
-      ""
+      "रक्त कोशिकाएं",
+      "तंत्रिका कोशिकाएं",
+      "वसा कोशिकाएं",
+      "अस्थि कोशिकाएं"
     ],
     "correctAns": "Nerve Cells",
     "enable": true
@@ -136,12 +136,12 @@
       "Vector",
       "None of these"
     ],
-    "questionHindi": "",
+    "questionHindi": "रोगाणुओं को रोगी से लेकर अन्य नए पोषी तक पहुंचने वाले जंतु को क्या कहते हैं?",
     "ansHindi": [
-      "",
-      "",
-      "",
-      ""
+      "अमीबा",
+      "जीवाणु",
+      "रोगवाहक",
+      "इनमे से कोई नहीं"
     ],
     "correctAns": "Vector",
     "enable": true
@@ -157,12 +157,12 @@
       "Eukaryotic Cell",
       "None of these"
     ],
-    "questionHindi": "",
+    "questionHindi": "जिन कोशिकाओं में झिल्लियुक्त संगठित केन्द्रक पाया जाता है क्या कहलाता है?",
     "ansHindi": [
-      "",
-      "",
-      "",
-      ""
+      "कोशिका झिल्ली",
+      "प्रोकार्योटिक कोशिका",
+      "यूकेरियोटिक कोशिका",
+      "इनमे से कोई नहीं"
     ],
     "correctAns": "Eukaryotic Cell",
     "enable": true
@@ -178,12 +178,12 @@
       "1 -10 millimeters",
       "0.1 – 0.5 micrometers"
     ],
-    "questionHindi": "",
+    "questionHindi": "सबसे छोटी जीवाणु कोशिका का साइज?",
     "ansHindi": [
-      "",
-      "",
-      "",
-      ""
+      "1 – 10 मीटर",
+      "1 – 10 सेंटीमीटर",
+      "1 -10 मी मीटर",
+      "0.1 – 0.5 माइक्रोमीटर"
     ],
     "correctAns": "0.1 – 0.5 micrometers",
     "enable": true
@@ -199,12 +199,12 @@
       "Fatal disease",
       "Dysentery"
     ],
-    "questionHindi": "",
+    "questionHindi": "घूम्रपान, तंबाकू चबाना तथा शराब का सेवन करने से कौन सा रोग उत्पन्न हो सकता है?",
     "ansHindi": [
-      "",
-      "",
-      "",
-      ""
+      "सामान्य जुकाम",
+      "हैज़ा",
+      "घातक रोग",
+      "पेचिश"
     ],
     "correctAns": "Fatal disease",
     "enable": true

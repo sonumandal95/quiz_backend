@@ -3,21 +3,210 @@
     "id": 1,
     "subject": "Computer",
     "round": "round4",
-    "question": "demo",
+    "question": "Windows 7 is an ……………… System.",
     "ans": [
-      "4",
-      "0",
-      "6",
-      "-1"
+      "DOS",
+      "Application",
+      "Operating",
+      "All of These"
     ],
-    "questionHindi": "2+2",
+    "questionHindi": "विंडोज 7 एक ……………… सिस्टम है।",
     "ansHindi": [
-      "4",
-      "0",
-      "6",
-      "-1"
+      "",
+      "",
+      "",
+      ""
     ],
-    "correctAns": "4",
-    "enable": false
+    "correctAns": "Operating",
+    "enable": true
+  },
+  {
+    "id": 2,
+    "subject": "Computer",
+    "round": "round4",
+    "question": "Mouse, Keyboard and Joystick are examples of ………………?",
+    "ans": [
+      "Output Device",
+      "Processing Device",
+      "Input Device",
+      "None of These"
+    ],
+    "questionHindi": "माउस, कीबोर्ड और जॉयस्टिक ……………… के उदाहरण हैं?",
+    "ansHindi": [
+      "आउटपुट डिवाइस",
+      "प्रसंस्करण उपकरण",
+      "इनपुट डिवाइस",
+      "इनमें से कोई नहीं"
+    ],
+    "correctAns": "Input Device",
+    "enable": true
+  },
+  {
+    "id": 3,
+    "subject": "Computer",
+    "round": "round4",
+    "question": "Who is known as the Mother of Computer?",
+    "ans": [
+      "Madam Currie",
+      "Lise Neitner",
+      "Lady Ada Augusta",
+      "Asina Chatterjee"
+    ],
+    "questionHindi": "कंप्यूटर की जननी के रूप में किसे जाना जाता है?",
+    "ansHindi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAns": "Lady Ada Augusta",
+    "enable": true
+  },
+  {
+    "id": 4,
+    "subject": "Computer",
+    "round": "round4",
+    "question": "Which memory is known as Volatile type of Memory?",
+    "ans": [
+      "ROM",
+      "EPRAM",
+      "RAM",
+      "PROM"
+    ],
+    "questionHindi": "किस मेमोरी को वोलेटाइल प्रकार की मेमोरी के रूप में जाना जाता है?",
+    "ansHindi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAns": "RAM",
+    "enable": true
+  },
+  {
+    "id": 5,
+    "subject": "Computer",
+    "round": "round4",
+    "question": "How many Types of Software are there?",
+    "ans": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+    ],
+    "questionHindi": "सॉफ्टवेयर कितने प्रकार के होते हैं?",
+    "ansHindi": [
+      "दो",
+      "तीन",
+      "चार",
+      "पाँच"
+    ],
+    "correctAns": "Two",
+    "enable": true
+  },
+  {
+    "id": 6,
+    "subject": "Computer",
+    "round": "round4",
+    "question": "Which of the following is an Output Device?",
+    "ans": [
+      "Scanner",
+      "Mouse",
+      "Monitor",
+      "Joystick"
+    ],
+    "questionHindi": "निम्न में से कौन एक आउटपुट डिवाइस है?",
+    "ansHindi": [
+      "स्कैनर",
+      "माउस",
+      "मॉनीटर",
+      "जॉयस्टिक"
+    ],
+    "correctAns": "Monitor",
+    "enable": true
+  },
+  {
+    "id": 7,
+    "subject": "Computer",
+    "round": "round4",
+    "question": "Difference Engine was developed by?",
+    "ans": [
+      "IBM",
+      "Charles Babbage",
+      "John Napier",
+      "Chinese"
+    ],
+    "questionHindi": "डिफरेंस इंजन किसके द्वारा विकसित किया गया था?",
+    "ansHindi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAns": "Charles Babbage",
+    "enable": true
+  },
+  {
+    "id": 8,
+    "subject": "Computer",
+    "round": "round4",
+    "question": "The Motherboard is attached ……………… the Computer.",
+    "ans": [
+      "Inside",
+      "Outside",
+      "At the Top of",
+      "At the Bottom of"
+    ],
+    "questionHindi": "मदरबोर्ड ……………… कंप्यूटर से जुड़ा है।",
+    "ansHindi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAns": "Inside",
+    "enable": true
+  },
+  {
+    "id": 9,
+    "subject": "Computer",
+    "round": "round4",
+    "question": "Computer has ……………… IQ.",
+    "ans": [
+      "Full",
+      "50%",
+      "No",
+      "None of These"
+    ],
+    "questionHindi": "कंप्यूटर में ……………… आईक्यू है।",
+    "ansHindi": [
+      "पूरा",
+      "50%",
+      "नहीं",
+      "इनमें से कोई नहीं"
+    ],
+    "correctAns": "No",
+    "enable": true
+  },
+  {
+    "id": 10,
+    "subject": "Computer",
+    "round": "round4",
+    "question": "Which of the following is a Storage Device?",
+    "ans": [
+      "DVD",
+      "Speaker",
+      "CPU",
+      "Keyboard"
+    ],
+    "questionHindi": "निम्न में से कौन एक स्टोरेज डिवाइस है?",
+    "ansHindi": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAns": "DVD",
+    "enable": true
   }
 ]

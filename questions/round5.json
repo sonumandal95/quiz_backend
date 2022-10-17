@@ -5,7 +5,7 @@
     "round": "round5",
     "question": "Tomato is a Natural Source of which Acid?",
     "questionHindi": "टमाटर किस अम्ल का प्राकृतिक स्रोत है ?",
-    "enable": false,
+    "enable": true,
     "correctAns": "",
     "ansHindi": [
       "",
@@ -26,7 +26,7 @@
     "round": "round5",
     "question": "Name the Morror which is used for Dental Mirror?",
     "questionHindi": "उस दर्पण का नाम बतावें जिसे डॉक्टरी दर्पण के रूप में प्रयोग किया जाता है ?",
-    "enable": false,
+    "enable": true,
     "correctAns": "",
     "ansHindi": [
       "",
@@ -47,7 +47,7 @@
     "round": "round5",
     "question": "What is the Unit of Power of Lens?",
     "questionHindi": "लेंस की शक्ति का मात्रक क्या है ?",
-    "enable": false,
+    "enable": true,
     "correctAns": "",
     "ansHindi": [
       "",
@@ -68,7 +68,7 @@
     "round": "round5",
     "question": "What type of Image is produced by Concave Lens?",
     "questionHindi": "अवतल लेंस किस प्रकार का प्रतिबिम्ब बनाता है ?",
-    "enable": false,
+    "enable": true,
     "correctAns": "",
     "ansHindi": [
       "",
@@ -172,7 +172,7 @@
     "subject": "Science",
     "round": "round5",
     "question": "Litmus Natural Dye is an Extract of which Plant?",
-    "questionHindi": "प्रकृतिक रंजक लिटमस किस पौधे से प्रप्त किया जाता है?",
+    "questionHindi": "प्राकृतिक रंजक लिटमस किस पौधे से प्रप्त किया जाता है?",
     "enable": true,
     "correctAns": "",
     "ansHindi": [

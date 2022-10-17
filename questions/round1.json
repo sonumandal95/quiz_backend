@@ -3,231 +3,210 @@
     "id": 1,
     "round": "round1",
     "subject": "Science",
-    "question": "Perimeter of Square",
+    "question": "What name is given for the number of Protons found in the nucleus of an atom?",
     "ans": [
-      "3xa",
-      "4xa",
-      "4a²",
-      "2a"
+      "Atomic Number",
+      "Atomic Mass",
+      "Isotope",
+      "Cathode Ray"
     ],
-    "questionHindi": "वर्ग का परिमाप",
+    "questionHindi": "किसी परमाणु के नाभिक में पाए जाने वाले प्रोटॉनों की संख्या को क्या कहते हैं?",
     "ansHindi": [
-      "",
-      "",
-      "",
-      ""
+      "परमाणु संख्या",
+      "परमाणु द्रव्यमान",
+      "आइसोटोप",
+      "कैथोड किरण"
     ],
-    "correctAns": "4xa",
-    "enable": false
+    "correctAns": "Atomic Number",
+    "enable": true
   },
   {
     "id": 2,
-    "subject": "computer",
+    "subject": "Science",
     "round": "round1",
-    "question": "demo",
+    "question": "Which of the following is a non-metal that remain Liquid at Room Temperature?",
     "ans": [
-      "4",
-      "0",
-      "6",
-      "-1"
+      "Phosphorus",
+      "Bromine",
+      "Chlorine",
+      "Mercury"
     ],
-    "questionHindi": "2+2",
+    "questionHindi": "निम्नलिखित में से कौन एक अधातु है जो कमरे के तापमान पर तरल रहती है?",
     "ansHindi": [
-      "4",
-      "0",
-      "6",
-      "-1"
+      "फास्फोरस",
+      "ब्रोमिन",
+      "क्लोरीन",
+      "पारा"
     ],
-    "correctAns": "4",
+    "correctAns": "Bromine",
     "enable": true
   },
   {
     "id": 3,
-    "subject": "computer",
+    "subject": "Science",
     "round": "round1",
-    "question": "demo",
+    "question": "Which of the following is used in Pencils?",
     "ans": [
-      "4",
-      "0",
-      "6",
-      "-1"
+      "Silicon",
+      "Graphite",
+      "Charcoal",
+      "Phosphorus"
     ],
-    "questionHindi": "2+2",
+    "questionHindi": "पेंसिल में निम्न में से किसका प्रयोग किया जाता है?",
     "ansHindi": [
-      "4",
-      "0",
-      "6",
-      "-1"
+      "सिलिकॉन",
+      "ग्रैफाइट",
+      "चारकोल",
+      "फास्फोरस"
     ],
-    "correctAns": "4",
+    "correctAns": "Graphite",
     "enable": true
   },
   {
     "id": 4,
-    "subject": "computer",
+    "subject": "Science",
     "round": "round1",
-    "question": "demo",
+    "question": "Which gas is usually filled in the Electric Bulb?",
     "ans": [
-      "4",
-      "0",
-      "6",
-      "-1"
+      "Nitrogen",
+      "Hydrogen",
+      "Carbon di oxide",
+      "Oxygen"
     ],
-    "questionHindi": "2+2",
+    "questionHindi": "किस गैस को सामान्य विद्युत बल्ब में भरा जाता है?",
     "ansHindi": [
-      "4",
-      "0",
-      "6",
-      "-1"
+      "नाइट्रोजन",
+      "हाइड्रोजन",
+      "कार्बन डाइआक्साइड",
+      "ऑक्सीजन"
     ],
-    "correctAns": "4",
+    "correctAns": "Nitrogen",
     "enable": true
   },
   {
     "id": 5,
-    "subject": "computer",
+    "subject": "Science",
     "round": "round1",
-    "question": "demo",
+    "question": "Name the Chemical name of Washing Soda?",
     "ans": [
-      "4",
-      "0",
-      "6",
-      "-1"
+      "Sodium Carbonate",
+      "Calcium Carbonate",
+      "Sodium bi Carbonate",
+      "Calcium bi Carbonate"
     ],
-    "questionHindi": "2+2",
+    "questionHindi": "धावन सोडा का रासायनिक नाम क्या है?",
     "ansHindi": [
-      "4",
-      "0",
-      "6",
-      "-1"
+      "सोडियम कार्बोनेट",
+      "कैल्शियम कार्बोनेट",
+      "सोडियम बाईकार्बोनेट",
+      "कैल्शियम बाईकार्बोनेट"
     ],
-    "correctAns": "4",
+    "correctAns": "Sodium Carbonate",
     "enable": true
   },
   {
     "id": 6,
-    "subject": "computer",
+    "subject": "Science",
     "round": "round1",
-    "question": "demo",
+    "question": "Which of the gas is not known as Green House Gas?",
     "ans": [
-      "4",
-      "0",
-      "6",
-      "-1"
+      "Methane",
+      "Nitrous  Oxide",
+      "Carbon di Oxide",
+      "Hydrogen"
     ],
-    "questionHindi": "2+2",
+    "questionHindi": "कौन सी गैस ग्रीन हाउस गैस के रूप में नहीं जानी जाती है?",
     "ansHindi": [
-      "4",
-      "0",
-      "6",
-      "-1"
+      "मीथेन",
+      "नाइट्रस ऑक्साइड",
+      "कार्बन डाइआक्साइड",
+      "हाइड्रोजन"
     ],
-    "correctAns": "4",
+    "correctAns": "Hydrogen",
     "enable": true
   },
   {
     "id": 7,
-    "subject": "computer",
+    "subject": "Science",
     "round": "round1",
-    "question": "demo",
+    "question": "The hardest Substance available on the Earth is?",
     "ans": [
-      "4",
-      "0",
-      "6",
-      "-1"
+      "Gold",
+      "Iron",
+      "Diamond",
+      "Platinum"
     ],
-    "questionHindi": "2+2",
+    "questionHindi": "पृथ्वी पर उपलब्ध सबसे कठोर पदार्थ कौन है ?",
     "ansHindi": [
-      "4",
-      "0",
-      "6",
-      "-1"
+      "सोना",
+      "लोहा",
+      "हीरा",
+      "प्लैटिनम"
     ],
-    "correctAns": "4",
+    "correctAns": "Diamond",
     "enable": true
   },
   {
     "id": 8,
-    "subject": "computer",
+    "subject": "Science",
     "round": "round1",
-    "question": "demo",
+    "question": "Which of the following is used as a Lubricant?",
     "ans": [
-      "4",
-      "0",
-      "6",
-      "-1"
+      "Graphite",
+      "Silicon",
+      "Iron Oxide",
+      "Diamond"
     ],
-    "questionHindi": "2+2",
+    "questionHindi": "निम्नलिखित में से किसका उपयोग स्नेहक के रूप में किया जाता है?",
     "ansHindi": [
-      "4",
-      "0",
-      "6",
-      "-1"
+      "ग्रैफाइट",
+      "सिलिकॉन",
+      "लौह ऑक्साइड",
+      "हीरा"
     ],
-    "correctAns": "4",
+    "correctAns": "Graphite",
     "enable": true
   },
   {
     "id": 9,
-    "subject": "computer",
+    "subject": "Science",
     "round": "round1",
-    "question": "demo",
+    "question": "Permanent Hardness of Water may be removed by the addition of?",
     "ans": [
-      "4",
-      "0",
-      "6",
-      "-1"
+      "Sodium Carbonate",
+      "Alum",
+      "Potassium Permanganate",
+      "Lime"
     ],
-    "questionHindi": "2+2",
+    "questionHindi": "पानी की स्थायी कठोरता को किसके द्वारा दूर किया जा सकता है?",
     "ansHindi": [
-      "4",
-      "0",
-      "6",
-      "-1"
+      "सोडियम कार्बोनेट",
+      "फिटकिरी",
+      "पोटेशियम परमैंगनेट",
+      "चूना"
     ],
-    "correctAns": "4",
+    "correctAns": "Sodium Carbonate",
     "enable": true
   },
   {
     "id": 10,
-    "subject": "computer",
+    "subject": "Science",
     "round": "round1",
-    "question": "demo",
+    "question": "What is Laughing Gas?",
     "ans": [
-      "4",
-      "0",
-      "6",
-      "-1"
+      "Nitrous Oxide",
+      "Carbon Monoxide",
+      "Sulphur di oxide",
+      "Hydrogen Peroxide"
     ],
-    "questionHindi": "2+2",
+    "questionHindi": "लाफिंग गैस क्या है?",
     "ansHindi": [
-      "4",
-      "0",
-      "6",
-      "-1"
+      "नाइट्रस ऑक्साइड",
+      "कार्बन मोनोआक्साइड",
+      "सल्फर डाइऑक्साइड",
+      "हाइड्रोजन पेरोक्साइड"
     ],
-    "correctAns": "4",
-    "enable": true
-  },
-  {
-    "id": 11,
-    "round": "round1",
-    "subject": "Maths",
-    "question": "Perimeter of Square?",
-    "ans": [
-      "3xa",
-      "4xa",
-      "4a²",
-      "2a²"
-    ],
-    "questionHindi": "वर्ग का परिमाप",
-    "ansHindi": [
-      "",
-      "",
-      "",
-      ""
-    ],
-    "correctAns": "4xa",
+    "correctAns": "Nitrous Oxide",
     "enable": true
   }
 ]

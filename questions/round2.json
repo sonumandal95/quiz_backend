@@ -1,21 +1,21 @@
 [
   {
     "id": 1,
-    "round": "round2",
+    "round": "Round2",
     "subject": "Maths",
     "question": "Perimeter of Square",
     "ans": [
-      "Volume of Sphere",
-      "Volume of Sphere",
-      "Volume of Sphere",
-      "Volume of Sphere"
+      "3xa",
+      "4xa",
+      "4a²",
+      "2a"
     ],
-    "questionHindi": "गोले का आयतन",
+    "questionHindi": "वर्ग का परिमाप",
     "ansHindi": [
-      "Volume of Sphere",
-      "Volume of Sphere",
-      "Volume of Sphere",
-      "Volume of Sphere"
+      "",
+      "",
+      "",
+      ""
     ],
     "correctAns": "4xa",
     "enable": true
@@ -23,7 +23,7 @@
   {
     "id": 2,
     "subject": "Maths",
-    "round": "round2",
+    "round": "Round2",
     "question": "Volume of Cylinder",
     "ans": [
       "πR²h",
@@ -44,7 +44,7 @@
   {
     "id": 3,
     "subject": "Maths",
-    "round": "round2",
+    "round": "Round2",
     "question": "Volume of Cone",
     "ans": [
       "πr²h",
@@ -59,17 +59,17 @@
       "",
       ""
     ],
-    "correctAns": "⅓πr²h4",
-    "enable": false
+    "correctAns": "⅓πr²h",
+    "enable": true
   },
   {
     "id": 4,
     "subject": "Maths",
-    "round": "round2",
+    "round": "Round2",
     "question": "(x+a)(x+b)",
     "ans": [
       "x²-(a+b)x+ab",
-      "x²(a+b)x+ab",
+      "x²+(a+b)x+ab",
       "x²+(a+b)x-ab",
       "x²-(a-b)x-ab"
     ],
@@ -80,21 +80,21 @@
       "",
       ""
     ],
-    "correctAns": "x²(a+b)x+ab",
+    "correctAns": "x²+(a+b)x+ab",
     "enable": true
   },
   {
     "id": 5,
     "subject": "Maths",
-    "round": "round2",
-    "question": "Semi-perimeter",
+    "round": "Round2",
+    "question": "Semi-perimeter of Triangle",
     "ans": [
       "(a+b-c)/2",
       "(a-b+c)/2",
       "(a+b+c)/2",
       "(a-b-c)/2"
     ],
-    "questionHindi": "अर्द्धपरिमाप",
+    "questionHindi": "त्रिभुज का अर्द्धपरिमाप",
     "ansHindi": [
       "",
       "",
@@ -107,7 +107,7 @@
   {
     "id": 6,
     "subject": "Maths",
-    "round": "round2",
+    "round": "Round2",
     "question": "Volume of Cuboid",
     "ans": [
       "axbxc",
@@ -128,7 +128,7 @@
   {
     "id": 7,
     "subject": "Maths",
-    "round": "round2",
+    "round": "Round2",
     "question": "(x+y)²",
     "ans": [
       "y²-2xy+x²",
@@ -149,20 +149,20 @@
   {
     "id": 8,
     "subject": "Maths",
-    "round": "round2",
+    "round": "Round2",
     "question": "Volume of Sphere",
     "ans": [
-      "Volume of Sphere",
-      "Volume of Sphere",
-      "Volume of Sphere",
-      "Volume of Sphere"
+      "4/3 πr³",
+      "3/4 πr³",
+      "4/3 πr²",
+      "2/3 πr³"
     ],
     "questionHindi": "गोले का आयतन",
     "ansHindi": [
-      "Volume of Sphere",
-      "Volume of Sphere",
-      "Volume of Sphere",
-      "Volume of Sphere"
+      "",
+      "",
+      "",
+      ""
     ],
     "correctAns": "4/3 πr³",
     "enable": true
@@ -170,7 +170,7 @@
   {
     "id": 9,
     "subject": "Maths",
-    "round": "round2",
+    "round": "Round2",
     "question": "x²-2xy+y²",
     "ans": [
       "(x-y)²",
@@ -191,7 +191,7 @@
   {
     "id": 10,
     "subject": "Maths",
-    "round": "round2",
+    "round": "Round2",
     "question": "x²-y²",
     "ans": [
       "(y-x)(y-x)",
